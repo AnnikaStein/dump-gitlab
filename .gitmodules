@@ -4,3 +4,6 @@
 [submodule "copypasta"]
 	path = copypasta
 	url = git@github.com:AnnikaStein/copypasta.git
+[submodule "AI_Safety_2021"]
+	path = AI_Safety_2021
+	url = git@github.com:AnnikaStein/AI_Safety_2021.git
